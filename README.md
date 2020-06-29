@@ -109,10 +109,10 @@ var newColor = getRandomColor(); // #E943F0
 
 A partir do seguinte vetor:
 
-var nomes = ["Diego", "Gabriel", "Lucas"];
-Preencha uma lista <ul> no HTML com os itens da seguinte forma:
+var nomes = ["Diego", "Gabriel", "Lucas"]; 
+Preencha uma lista <ul> com os itens da seguinte forma:
 	
-● Diego ● Gabriel ● Lucas
+* Diego * Gabriel * Lucas
 <br>
 
 
